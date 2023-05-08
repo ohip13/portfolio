@@ -5,7 +5,7 @@
 ---
 
 
-Switching on soon
+Switching on soon.
 
 
-<img src="assets/images/fwt-pink.jpg">
+<img src="assets/images/fwt-pink.jpg"/>
