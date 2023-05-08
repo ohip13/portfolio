@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Owen Hipwell's portfolio
+title: HIPCO Electric
 email: ohip412 at gmail dot com
 description: >-
-  Owen Hipwell's portfolio
+  art by Owen Hipwell
 baseurl: "/portfolio/"
 url: "https://ohip13.github.io"
 github_username:  ohip13
