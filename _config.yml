@@ -25,6 +25,7 @@ description: >-
 baseurl: "/portfolio/"
 url: "https://ohip13.github.io"
 github_username:  ohip13
+logo: /assets/img/logo.png
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
