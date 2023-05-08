@@ -23,8 +23,8 @@ email: ohip412 at gmail dot com
 description: >-
   Owen Hipwell's portfolio
 baseurl: "/portfolio/"
-url: "https://ohip412.github.io"
-github_username:  ohip412
+url: "https://ohip13.github.io"
+github_username:  ohip13
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
